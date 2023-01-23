@@ -1,0 +1,9 @@
+.header{
+    display:flex;
+    flex-direction:row;
+    justify-content:left;
+    gap:30px;
+    list-style-type: none;
+    padding:0;
+    height:50px;
+}

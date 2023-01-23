@@ -1,0 +1,23 @@
+.searchBotton {
+    padding: 8px 14px;
+    margin: 8px 4px;
+    border: 1px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: white;
+    background-color: #42b3f4;
+    text-align: center;
+    
+}
+
+.searchBotton:active{
+    background-color: #266489;
+}
+
+.searchInput {
+    padding: 8px 14px;
+    margin: 8px 4px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    text-align: center;
+}

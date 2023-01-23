@@ -1,0 +1,16 @@
+.removeBotton {
+    padding: 8px 14px;
+    margin: 8px 4px;
+    border: 1px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: white;
+    background-color: #f44242;
+    text-align: center;
+    
+}
+
+.removeBotton:active{
+    background-color: #892626;
+}
+
